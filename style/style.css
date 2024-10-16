@@ -1,0 +1,36 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+}
+h3{
+    color: blue;
+    text-align: center;
+    font-size: 29px;
+    
+}
+span{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    text-align: center;
+    font-size: 27px;
+}
+i{
+    color: blue;
+}
+.dfg {
+    color: rgb(204, 21, 27);
+}
+.vbn{
+    color: blue;
+}
+ol{
+    color: rgb(156, 20, 20);
+}
+h2{
+    color: rgb(18, 140, 53);
+    text-align: right;
+}
